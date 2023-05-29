@@ -1,0 +1,8 @@
+{
+  "canisters": {
+    "emc_presale":{
+      "main": "src/emc_presale.mo",
+      "type": "motoko"
+    }
+  }
+}
